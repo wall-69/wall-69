@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ahoj, volám sa Tomáš! 
+Učím sa programovať weby a ešte k tomu ma to aj baví!
 
-<!--
-**wall-69/wall-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📌 Projekty:
+V mojich projektoch používam Laravel pre backend, Vue.js pre frontend.  
+Ako databázu používam MySQL, aj keď pri jednom projekte som použil MongoDB.  
 
-Here are some ideas to get you started:
+- [DailyVocab - Laravel learning app](../../../laravel-learning-app)  
+- [QuickLogic - Laravel debate app](../../../laravel-debate-app)  
+- [LaraChat - Laravel real time chat](../../../laravel-chat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔧 Moje zručnosti
+- **HTML & CSS** - Tailwind
+- **JavaScript** - Vue.js
+- **PHP** - Laravel
+- **MySQL**
+- **Python**
+
+## 📫 Kontakt
+- 📧 tomas.krisko.0@gmail.com
