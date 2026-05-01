@@ -1,5 +1,5 @@
 # Ahoj, volám sa Tomáš! 
-Učím sa programovať weby a ešte k tomu ma to aj baví!
+Programujem weby a ešte k tomu ma to aj baví.
 
 # 📌 Projekty:
 V mojich projektoch používam Laravel pre backend, Vue.js pre frontend.  
